@@ -19,7 +19,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Analizando Datos, Despertando Curiosidad</h2></summary>
   </ul>
 </div>
 
@@ -33,7 +33,6 @@
 
 - 📫 Puedes comunicarte conmigo:  **balki7905@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
 
 
